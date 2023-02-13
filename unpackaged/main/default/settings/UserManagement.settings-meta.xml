@@ -4,9 +4,9 @@
     <enableConcealPersonalInfo>true</enableConcealPersonalInfo>
     <enableEnhancedConcealPersonalInfo>false</enableEnhancedConcealPersonalInfo>
     <enableEnhancedPermsetMgmt>false</enableEnhancedPermsetMgmt>
-    <enableEnhancedProfileMgmt>false</enableEnhancedProfileMgmt>
-    <enableNewProfileUI>false</enableNewProfileUI>
-    <enableProfileFiltering>false</enableProfileFiltering>
+    <enableEnhancedProfileMgmt>true</enableEnhancedProfileMgmt>
+    <enableNewProfileUI>true</enableNewProfileUI>
+    <enableProfileFiltering>true</enableProfileFiltering>
     <enableRestrictEmailDomains>false</enableRestrictEmailDomains>
     <enableScrambleUserData>false</enableScrambleUserData>
     <enableUserSelfDeactivate>false</enableUserSelfDeactivate>

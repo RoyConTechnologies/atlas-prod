@@ -96,4 +96,12 @@
         <name>sbaa__AdvancedApprovals</name>
         <type>CustomApplication</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>Atlas_Crane</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>Admin_Console</name>
+        <type>CustomApplication</type>
+    </appMenuItems>
 </AppMenu>
