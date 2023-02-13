@@ -226,8 +226,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -238,8 +262,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -276,10 +336,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -430,8 +505,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -442,8 +541,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -480,10 +615,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -638,8 +788,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -650,8 +824,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -689,10 +899,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -843,8 +1068,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -855,8 +1104,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -893,10 +1178,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1051,8 +1351,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -1063,8 +1387,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1102,10 +1462,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1256,8 +1631,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -1268,8 +1667,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1306,10 +1741,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1464,8 +1914,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -1476,8 +1950,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1515,10 +2025,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1669,8 +2194,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -1681,8 +2230,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1719,10 +2304,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1877,8 +2477,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -1889,8 +2513,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1928,10 +2588,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2082,8 +2757,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -2094,8 +2793,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2132,10 +2867,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2290,8 +3040,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -2302,8 +3076,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2341,10 +3151,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2495,8 +3320,32 @@
             <label>Last Modified Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
@@ -2507,8 +3356,44 @@
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2545,10 +3430,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <globalAdjustmentsSettings>

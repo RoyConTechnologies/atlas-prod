@@ -14,32 +14,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -50,24 +26,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -90,6 +50,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -98,24 +182,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -126,20 +198,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -180,10 +240,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityRevenue</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -201,32 +276,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -237,24 +288,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -277,6 +312,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -285,24 +444,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -313,20 +460,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -367,10 +502,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityQuantity</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -388,32 +538,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -424,24 +550,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -464,6 +574,134 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SPLITAMOUNT</field>
+            <label>Forecasted Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -472,28 +710,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>SPLITAMOUNT</field>
-            <label>Forecasted Amount</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -504,20 +726,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -559,10 +769,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityLineItemRevenue</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -580,32 +805,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -616,24 +817,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -656,6 +841,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -664,24 +973,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -692,20 +989,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -746,10 +1031,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityLineItemQuantity</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -767,32 +1067,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -803,24 +1079,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -843,6 +1103,134 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SPLITAMOUNT</field>
+            <label>Forecasted Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -851,28 +1239,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>SPLITAMOUNT</field>
-            <label>Forecasted Amount</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -883,20 +1255,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -938,10 +1298,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityRevenueProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -959,32 +1334,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -995,24 +1346,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1035,6 +1370,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1043,24 +1502,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -1071,20 +1518,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -1125,10 +1560,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityQuantityProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -1146,32 +1596,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -1182,24 +1608,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1222,6 +1632,134 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SPLITAMOUNT</field>
+            <label>Forecasted Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1230,28 +1768,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>SPLITAMOUNT</field>
-            <label>Forecasted Amount</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -1262,20 +1784,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -1317,10 +1827,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemRevenueProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -1338,32 +1863,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -1374,24 +1875,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1414,6 +1899,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1422,24 +2031,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -1450,20 +2047,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -1504,10 +2089,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemQuantityProductDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -1525,32 +2125,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -1561,24 +2137,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1601,6 +2161,134 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SPLITAMOUNT</field>
+            <label>Forecasted Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1609,28 +2297,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>SPLITAMOUNT</field>
-            <label>Forecasted Amount</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -1641,20 +2313,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -1696,10 +2356,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityRevenueScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -1717,32 +2392,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -1753,24 +2404,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1793,6 +2428,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1801,24 +2560,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -1829,20 +2576,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -1883,10 +2618,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>OpportunityQuantityScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -1904,32 +2654,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -1940,24 +2666,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1980,6 +2690,134 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SPLITAMOUNT</field>
+            <label>Forecasted Amount</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1988,28 +2826,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>SPLITAMOUNT</field>
-            <label>Forecasted Amount</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -2020,20 +2842,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -2075,10 +2885,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemRevenueScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
@@ -2096,32 +2921,8 @@
             <label>Close Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.TYPE</field>
-            <label>Type</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CREATED_DATE</field>
-            <label>Created Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_UPDATE</field>
-            <label>Last Modified Date</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LEAD_SOURCE</field>
-            <label>Lead Source</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.EXP_AMOUNT</field>
             <label>Expected Revenue</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.CLOSED</field>
-            <label>Closed</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.WON</field>
-            <label>Won</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
@@ -2132,24 +2933,8 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.LAST_ACTIVITY</field>
-            <label>Last Activity</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>DESCRIPTION</field>
-            <label>Description</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.FISCAL_PERIOD</field>
-            <label>Fiscal Period</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>FULL_NAME</field>
-            <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2172,6 +2957,130 @@
             <label>Stage</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHQ</field>
+            <label>Ordered</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHP</field>
+            <label>Order Group ID</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHS</field>
+            <label>Quote Pricebook Id</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHR</field>
+            <label>Primary Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHM</field>
+            <label>Amended Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeJ</field>
+            <label>Submitted Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeI</field>
+            <label>Step Approved</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.NAME</field>
+            <label>Contract Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHO</field>
+            <label>Create Contracted Prices</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHN</field>
+            <label>Contracted</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeK</field>
+            <label>Submitted User</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeF</field>
+            <label>Approval Status</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeH</field>
+            <label>Approver</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.NAME</field>
+            <label>Opportunity Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOeG</field>
+            <label>Approval Step</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>SYNCEDQUOTE.NAME</field>
+            <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>ACCOUNT.SITE</field>
+            <label>Account Site</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.PRIVATE</field>
+            <label>Private</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>CONTRACT.CONTRACT_NUMBER</field>
+            <label>Contract Number</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHU</field>
+            <label>Renewed Contract</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CXOHT</field>
+            <label>Renewal</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.TYPE</field>
+            <label>Type</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CREATED_DATE</field>
+            <label>Created Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_UPDATE</field>
+            <label>Last Modified Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LEAD_SOURCE</field>
+            <label>Lead Source</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.CLOSED</field>
+            <label>Closed</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.WON</field>
+            <label>Won</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.LAST_ACTIVITY</field>
+            <label>Last Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>DESCRIPTION</field>
+            <label>Description</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>OPPORTUNITY.FISCAL_PERIOD</field>
+            <label>Fiscal Period</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>FULL_NAME</field>
+            <label>Owner Full Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -2180,24 +3089,12 @@
             <label>Discovery Completed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>CONTRACT.NAME</field>
-            <label>Contract Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.QUANTITY</field>
             <label>Quantity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.NAME</field>
-            <label>Opportunity Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.LAST_NAME</field>
             <label>Owner Last Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>SYNCEDQUOTE.NAME</field>
-            <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_YEAR</field>
@@ -2208,20 +3105,8 @@
             <label>Owner First Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
-            <field>ACCOUNT.SITE</field>
-            <label>Account Site</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
             <label>Account Name</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>OPPORTUNITY.PRIVATE</field>
-            <label>Private</label>
-        </forecastingObjectListLabelMappings>
-        <forecastingObjectListLabelMappings>
-            <field>CONTRACT.CONTRACT_NUMBER</field>
-            <label>Contract Number</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>FORECAST_CATEGORY</field>
@@ -2262,10 +3147,25 @@
             <field>OPPORTUNITY.LAST_ACTIVITY</field>
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
+            <field>00NDP00000CXOHM</field>
+            <field>00NDP00000CXOeF</field>
+            <field>00NDP00000CXOeG</field>
+            <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000CXOHN</field>
+            <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000CXOHQ</field>
+            <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CXOHR</field>
+            <field>00NDP00000CXOHS</field>
+            <field>00NDP00000CXOHT</field>
+            <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CXOeI</field>
+            <field>00NDP00000CXOeJ</field>
+            <field>00NDP00000CXOeK</field>
         </forecastingObjectListUnselectedSettings>
         <forecastingTypeDeveloperName>LineItemQuantityScheduleDate</forecastingTypeDeveloperName>
     </forecastingTypeObjectListSettings>
