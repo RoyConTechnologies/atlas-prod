@@ -29,9 +29,6 @@
         <label>Create Lead from Form Data</label>
         <locationX>176</locationX>
         <locationY>278</locationY>
-        <faultConnector>
-            <targetReference>Enter_Required_Fields</targetReference>
-        </faultConnector>
         <inputReference>Lead</inputReference>
     </recordCreates>
     <screens>
@@ -45,6 +42,28 @@
         <connector>
             <targetReference>Create_Lead_from_Form_Data</targetReference>
         </connector>
+        <fields>
+            <name>EmailPhoneValidation</name>
+            <fieldText>&lt;p&gt;Please ensure at least a phone number or email address are entered. &lt;/p&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+            <visibilityRule>
+                <conditionLogic>and</conditionLogic>
+                <conditions>
+                    <leftValueReference>Lead.Phone</leftValueReference>
+                    <operator>IsNull</operator>
+                    <rightValue>
+                        <booleanValue>true</booleanValue>
+                    </rightValue>
+                </conditions>
+                <conditions>
+                    <leftValueReference>Lead.Email</leftValueReference>
+                    <operator>IsNull</operator>
+                    <rightValue>
+                        <booleanValue>true</booleanValue>
+                    </rightValue>
+                </conditions>
+            </visibilityRule>
+        </fields>
         <fields>
             <fieldType>ObjectProvided</fieldType>
             <isRequired>false</isRequired>
@@ -64,22 +83,6 @@
             <fieldType>ObjectProvided</fieldType>
             <isRequired>false</isRequired>
             <objectFieldReference>Lead.Email</objectFieldReference>
-        </fields>
-        <showFooter>true</showFooter>
-        <showHeader>true</showHeader>
-    </screens>
-    <screens>
-        <name>Enter_Required_Fields</name>
-        <label>Enter Required Fields</label>
-        <locationX>440</locationX>
-        <locationY>398</locationY>
-        <allowBack>true</allowBack>
-        <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
-        <fields>
-            <name>enterRequiredFields</name>
-            <fieldText>&lt;p&gt;Please enter all required fields. &lt;/p&gt;</fieldText>
-            <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
