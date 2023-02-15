@@ -51,7 +51,7 @@
         </connector>
         <fields>
             <name>EmailPhoneValidation</name>
-            <fieldText>&lt;p&gt;Please ensure at least a phone number or email address are entered. &lt;/p&gt;</fieldText>
+            <fieldText>&lt;p&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;Please ensure at least a phone number or email address are entered.&lt;/span&gt;&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
             <visibilityRule>
                 <conditionLogic>and</conditionLogic>
