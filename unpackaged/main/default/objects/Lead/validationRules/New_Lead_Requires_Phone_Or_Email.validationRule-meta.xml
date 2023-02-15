@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>New_Lead_Requires_Phone_Or_Email</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND (ISNULL ( Email ), ISNULL(  Phone ))</errorConditionFormula>
+    <errorMessage>Either a phone number or an email is required to add a new lead.</errorMessage>
+</ValidationRule>

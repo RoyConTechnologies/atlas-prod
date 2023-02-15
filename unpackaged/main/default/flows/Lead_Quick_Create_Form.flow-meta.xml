@@ -29,6 +29,13 @@
         <label>Create Lead from Form Data</label>
         <locationX>176</locationX>
         <locationY>278</locationY>
+        <connector>
+            <targetReference>EnterANewLead</targetReference>
+        </connector>
+        <faultConnector>
+            <isGoTo>true</isGoTo>
+            <targetReference>Create_Leads</targetReference>
+        </faultConnector>
         <inputReference>Lead</inputReference>
     </recordCreates>
     <screens>
@@ -36,9 +43,9 @@
         <label>Create Leads</label>
         <locationX>176</locationX>
         <locationY>158</locationY>
-        <allowBack>true</allowBack>
+        <allowBack>false</allowBack>
         <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
+        <allowPause>false</allowPause>
         <connector>
             <targetReference>Create_Lead_from_Form_Data</targetReference>
         </connector>
@@ -84,6 +91,24 @@
             <isRequired>false</isRequired>
             <objectFieldReference>Lead.Email</objectFieldReference>
         </fields>
+        <nextOrFinishButtonLabel>Add</nextOrFinishButtonLabel>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>EnterANewLead</name>
+        <label>Enter A New Lead</label>
+        <locationX>176</locationX>
+        <locationY>398</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>false</allowFinish>
+        <allowPause>false</allowPause>
+        <backButtonLabel>Enter a New Lead</backButtonLabel>
+        <fields>
+            <name>Success</name>
+            <fieldText>&lt;p&gt;Lead successfully added! &lt;/p&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
     </screens>
@@ -94,7 +119,7 @@
             <targetReference>Create_Leads</targetReference>
         </connector>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
     <variables>
         <name>Lead</name>
         <dataType>SObject</dataType>
