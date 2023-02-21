@@ -6,4 +6,29 @@
         <default>false</default>
         <label>None</label>
     </standardValue>
+    <standardValue>
+        <fullName>Package</fullName>
+        <default>false</default>
+        <label>Package</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Equipment</fullName>
+        <default>false</default>
+        <label>Equipment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Labor</fullName>
+        <default>false</default>
+        <label>Labor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Permits</fullName>
+        <default>false</default>
+        <label>Permits</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Transportation</fullName>
+        <default>false</default>
+        <label>Transportation</label>
+    </standardValue>
 </StandardValueSet>
