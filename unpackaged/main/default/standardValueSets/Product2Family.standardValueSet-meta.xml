@@ -31,4 +31,9 @@
         <default>false</default>
         <label>Transportation</label>
     </standardValue>
+    <standardValue>
+        <fullName>Cranes</fullName>
+        <default>false</default>
+        <label>Cranes</label>
+    </standardValue>
 </StandardValueSet>

@@ -6,6 +6,8 @@
     <columns>PRODUCT2.CUSTOMER_PRODUCT_ID</columns>
     <columns>PRODUCT2.DESCRIPTION</columns>
     <columns>PRODUCT2.FAMILY</columns>
+    <columns>Family__c</columns>
+    <columns>SBQQ__HasConfigurationAttributes__c</columns>
     <filterScope>Everything</filterScope>
     <label>All Products</label>
 </ListView>

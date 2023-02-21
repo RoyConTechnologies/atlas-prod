@@ -161,16 +161,6 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.Counter_Weight__c</fieldItem>
-                <identifier>RecordCounter_Weight_cField</identifier>
-            </fieldInstance>
-        </itemInstances>
-        <itemInstances>
-            <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
                 <fieldItem>Record.Configuration__c</fieldItem>
                 <identifier>RecordConfiguration_cField</identifier>
             </fieldInstance>
@@ -257,6 +247,46 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.SBQQ__DiscountAmount__c</fieldItem>
                 <identifier>RecordSBQQ_DiscountAmount_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Counterweight__c</fieldItem>
+                <identifier>RecordCounterweight_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Fixed_Jib__c</fieldItem>
+                <identifier>RecordFixed_Jib_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Luffing_Jib__c</fieldItem>
+                <identifier>RecordLuffing_Jib_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Liccon_Configuration__c</fieldItem>
+                <identifier>RecordLiccon_Configuration_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-82449d1e-53c1-4865-a39d-aab1aa6c00df</name>
