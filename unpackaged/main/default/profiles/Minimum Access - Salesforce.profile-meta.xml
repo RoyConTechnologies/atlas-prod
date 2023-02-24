@@ -1104,6 +1104,9 @@
         <layout>EntityMilestone-Object Milestone Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Jobsite__c-Jobsite Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>ProcessException-Process Exception Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1145,6 +1148,10 @@
         <recordType>Knowledge__kav.Procedure</recordType>
         <visible>false</visible>
     </recordTypeVisibilities>
+    <tabVisibilities>
+        <tab>Jobsite__c</tab>
+        <visibility>DefaultOn</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>MobileLanding</tab>
         <visibility>Hidden</visibility>

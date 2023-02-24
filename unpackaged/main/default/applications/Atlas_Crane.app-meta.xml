@@ -22,9 +22,13 @@
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
+    <tabs>Jobsite__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>Atlas_Crane_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Jobsite__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

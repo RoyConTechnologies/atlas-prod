@@ -3251,6 +3251,9 @@
         <layout>Individual-Individual Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Jobsite__c-Jobsite Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Knowledge__kav-FAQ - Author</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3420,6 +3423,10 @@
         <recordType>Knowledge__kav.Procedure</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
+    <tabVisibilities>
+        <tab>Jobsite__c</tab>
+        <visibility>Hidden</visibility>
+    </tabVisibilities>
     <tabVisibilities>
         <tab>Knowledge__kav</tab>
         <visibility>DefaultOn</visibility>

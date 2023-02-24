@@ -25,9 +25,13 @@
     <tabs>standard-FlowInterview</tabs>
     <tabs>standard-DeleteEvent</tabs>
     <tabs>standard-OnlineSalesHome</tabs>
+    <tabs>Jobsite__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>System_Administrator_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>Jobsite__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
