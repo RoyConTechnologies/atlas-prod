@@ -79,6 +79,10 @@
                     <size>SMALL</size>
                 </reportChartComponent>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>MSA_Non_Standard_Terms__c</field>
+            </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>
     </layoutSections>

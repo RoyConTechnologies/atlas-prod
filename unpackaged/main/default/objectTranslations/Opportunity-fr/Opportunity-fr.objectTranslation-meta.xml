@@ -4,25 +4,6 @@
         <label><!-- New Quote --></label>
         <name>NewQuote</name>
     </quickActions>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <fieldSets>
         <label><!-- Deal Desk --></label>
         <name>sbaa__DealDesk</name>
@@ -59,4 +40,30 @@
         <label><!-- SubmitForApproval --></label>
         <name>sbaa__SubmitForApproval</name>
     </webLinks>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </CustomObjectTranslation>

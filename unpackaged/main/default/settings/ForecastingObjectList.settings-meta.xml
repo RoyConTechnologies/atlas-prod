@@ -18,6 +18,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -26,8 +30,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -48,6 +60,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -174,6 +190,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -194,8 +218,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -248,14 +280,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -280,6 +320,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -288,8 +332,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -310,6 +362,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -436,6 +492,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -456,8 +520,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -510,14 +582,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -542,6 +622,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -550,8 +634,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -572,6 +664,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -702,6 +798,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -722,8 +826,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -777,14 +889,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -809,6 +929,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -817,8 +941,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -839,6 +971,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -965,6 +1101,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -985,8 +1129,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -1039,14 +1191,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1071,6 +1231,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1079,8 +1243,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1101,6 +1273,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -1231,6 +1407,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1251,8 +1435,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -1306,14 +1498,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1338,6 +1538,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1346,8 +1550,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1368,6 +1580,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -1494,6 +1710,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1514,8 +1738,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -1568,14 +1800,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1600,6 +1840,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1608,8 +1852,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1630,6 +1882,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -1760,6 +2016,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -1780,8 +2044,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -1835,14 +2107,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1867,6 +2147,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -1875,8 +2159,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -1897,6 +2189,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -2023,6 +2319,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -2043,8 +2347,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -2097,14 +2409,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2129,6 +2449,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -2137,8 +2461,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2159,6 +2491,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -2289,6 +2625,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -2309,8 +2653,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -2364,14 +2716,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2396,6 +2756,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -2404,8 +2768,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2426,6 +2798,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -2552,6 +2928,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -2572,8 +2956,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -2626,14 +3018,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2658,6 +3058,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -2666,8 +3070,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2688,6 +3100,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -2818,6 +3234,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -2838,8 +3262,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -2893,14 +3325,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2925,6 +3365,10 @@
             <label>Expected Revenue</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.PROBABILITY</field>
             <label>Probability (%)</label>
         </forecastingObjectListLabelMappings>
@@ -2933,8 +3377,16 @@
             <label>Opportunity Owner Alias</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.FISCAL_QUARTER</field>
             <label>Fiscal Quarter</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.NEXT_STEP</field>
@@ -2955,6 +3407,10 @@
         <forecastingObjectListLabelMappings>
             <field>OPPORTUNITY.STAGE_NAME</field>
             <label>Stage</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>00NDP00000CXOHQ</field>
@@ -3081,6 +3537,14 @@
             <label>Owner Full Name</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>00NDn00000UcDfF</field>
             <label>Budget Confirmed</label>
         </forecastingObjectListLabelMappings>
@@ -3101,8 +3565,16 @@
             <label>Fiscal Year</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>CORE.USERS.FIRST_NAME</field>
             <label>Owner First Name</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.NAME</field>
@@ -3155,14 +3627,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>

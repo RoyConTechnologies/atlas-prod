@@ -104,6 +104,12 @@
     <relatedLists>
         <relatedList>RelatedFileList</relatedList>
     </relatedLists>
+    <relatedLists>
+        <fields>FULL_NAME</fields>
+        <fields>LEAD.COMPANY</fields>
+        <fields>LEAD.PHONE</fields>
+        <relatedList>Lead.Product__c</relatedList>
+    </relatedLists>
     <showEmailCheckbox>false</showEmailCheckbox>
     <showHighlightsPanel>false</showHighlightsPanel>
     <showInteractionLogPanel>false</showInteractionLogPanel>

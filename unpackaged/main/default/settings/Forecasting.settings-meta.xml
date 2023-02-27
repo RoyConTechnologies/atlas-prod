@@ -258,6 +258,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -268,6 +292,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -288,6 +316,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -344,14 +376,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -537,6 +577,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -547,6 +611,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -567,6 +635,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -623,14 +695,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -820,6 +900,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -830,6 +934,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -850,6 +958,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -907,14 +1019,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1100,6 +1220,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1110,6 +1254,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -1130,6 +1278,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -1186,14 +1338,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1383,6 +1543,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1393,6 +1577,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -1413,6 +1601,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -1470,14 +1662,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1663,6 +1863,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1673,6 +1897,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -1693,6 +1921,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -1749,14 +1981,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -1946,6 +2186,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -1956,6 +2220,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -1976,6 +2244,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -2033,14 +2305,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2226,6 +2506,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -2236,6 +2540,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -2256,6 +2564,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -2312,14 +2624,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2509,6 +2829,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -2519,6 +2863,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -2539,6 +2887,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -2596,14 +2948,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -2789,6 +3149,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -2799,6 +3183,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -2819,6 +3207,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -2875,14 +3267,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -3072,6 +3472,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -3082,6 +3506,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -3102,6 +3530,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -3159,14 +3591,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
@@ -3352,6 +3792,30 @@
             <label>Discovery Completed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WX</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T52</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDP0000004T53</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WS</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WN</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2WI</field>
+            <label>Job Start Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
@@ -3362,6 +3826,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHP</field>
             <label>Order Group ID</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wc</field>
+            <label>Preliminary Notice Filed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHR</field>
@@ -3382,6 +3850,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000CY2Wh</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOeI</field>
@@ -3438,14 +3910,22 @@
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000CY2WX</field>
+            <field>0BCDP0000004T52</field>
+            <field>0BCDP0000004T53</field>
+            <field>00NDP00000CY2WS</field>
+            <field>00NDP00000CY2WN</field>
+            <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
+            <field>00NDP00000CY2Wc</field>
             <field>00NDP00000CXOHR</field>
             <field>00NDP00000CXOHS</field>
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
             <field>00NDP00000CXOeK</field>
