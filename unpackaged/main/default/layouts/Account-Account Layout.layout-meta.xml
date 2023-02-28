@@ -30,11 +30,11 @@
                 <field>Description</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>Credit_Review_Date__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>Credit_Limit__c</field>
             </layoutItems>
         </layoutColumns>
@@ -80,7 +80,7 @@
                 </reportChartComponent>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
+                <behavior>Required</behavior>
                 <field>MSA_Non_Standard_Terms__c</field>
             </layoutItems>
         </layoutColumns>

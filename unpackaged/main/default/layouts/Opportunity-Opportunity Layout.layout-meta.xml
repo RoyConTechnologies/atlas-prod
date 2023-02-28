@@ -63,6 +63,26 @@
                 <behavior>Edit</behavior>
                 <field>Preliminary_Notice_Filed__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Budget_Type__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Industry__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Created_Date__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Required</behavior>
+                <field>Jobsite__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Equipment_Required__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -120,6 +140,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Special_Instructions_Internal__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Special_Instructions__c</field>
             </layoutItems>
         </layoutColumns>
         <style>OneColumn</style>

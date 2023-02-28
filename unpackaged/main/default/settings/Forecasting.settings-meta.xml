@@ -246,6 +246,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -254,8 +258,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -270,12 +282,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -316,6 +336,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -373,14 +397,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -391,6 +420,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -565,6 +595,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -573,8 +607,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -589,12 +631,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -635,6 +685,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -692,14 +746,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -710,6 +769,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -888,6 +948,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -896,8 +960,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -912,12 +984,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -958,6 +1038,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -1016,14 +1100,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -1034,6 +1123,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -1208,6 +1298,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -1216,8 +1310,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -1232,12 +1334,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -1278,6 +1388,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -1335,14 +1449,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -1353,6 +1472,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -1531,6 +1651,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -1539,8 +1663,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -1555,12 +1687,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -1601,6 +1741,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -1659,14 +1803,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -1677,6 +1826,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -1851,6 +2001,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -1859,8 +2013,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -1875,12 +2037,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -1921,6 +2091,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -1978,14 +2152,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -1996,6 +2175,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -2174,6 +2354,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -2182,8 +2366,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -2198,12 +2390,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -2244,6 +2444,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -2302,14 +2506,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -2320,6 +2529,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -2494,6 +2704,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -2502,8 +2716,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -2518,12 +2740,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -2564,6 +2794,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -2621,14 +2855,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -2639,6 +2878,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -2817,6 +3057,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -2825,8 +3069,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -2841,12 +3093,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -2887,6 +3147,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -2945,14 +3209,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -2963,6 +3232,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -3137,6 +3407,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -3145,8 +3419,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -3161,12 +3443,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -3207,6 +3497,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -3264,14 +3558,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -3282,6 +3581,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -3460,6 +3760,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -3468,8 +3772,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -3484,12 +3796,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -3530,6 +3850,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -3588,14 +3912,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -3606,6 +3935,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>
@@ -3780,6 +4110,10 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbJ</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CXOHN</field>
             <label>Contracted</label>
         </opportunityListFieldsLabelMappings>
@@ -3788,8 +4122,16 @@
             <label>Create Contracted Prices</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlL</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlV</field>
+            <label>Equipment Required</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WX</field>
@@ -3804,12 +4146,20 @@
             <label>Geolocation (Longitude)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlB</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WS</field>
             <label>Job Duration</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WN</field>
             <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIlQ</field>
+            <label>Jobsite</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2WI</field>
@@ -3850,6 +4200,10 @@
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDP00000FOIbE</field>
+            <label>Special Instructions</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDP00000CY2Wh</field>
@@ -3907,14 +4261,19 @@
             <field>00NDP00000CXOeG</field>
             <field>00NDP00000CXOeH</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDP00000FOIbJ</field>
             <field>00NDP00000CXOHN</field>
             <field>00NDP00000CXOHO</field>
+            <field>00NDP00000FOIlL</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDP00000FOIlV</field>
             <field>00NDP00000CY2WX</field>
             <field>0BCDP0000004T52</field>
             <field>0BCDP0000004T53</field>
+            <field>00NDP00000FOIlB</field>
             <field>00NDP00000CY2WS</field>
             <field>00NDP00000CY2WN</field>
+            <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
             <field>00NDP00000CXOHQ</field>
@@ -3925,6 +4284,7 @@
             <field>00NDP00000CXOHT</field>
             <field>00NDP00000CXOHU</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDP00000FOIbE</field>
             <field>00NDP00000CY2Wh</field>
             <field>00NDP00000CXOeI</field>
             <field>00NDP00000CXOeJ</field>

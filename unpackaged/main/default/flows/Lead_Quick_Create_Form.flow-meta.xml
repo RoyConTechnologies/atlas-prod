@@ -33,8 +33,7 @@
             <targetReference>EnterANewLead</targetReference>
         </connector>
         <faultConnector>
-            <isGoTo>true</isGoTo>
-            <targetReference>Create_Leads</targetReference>
+            <targetReference>ErrorScreen</targetReference>
         </faultConnector>
         <inputReference>Lead</inputReference>
     </recordCreates>
@@ -107,6 +106,26 @@
         <fields>
             <name>Success</name>
             <fieldText>&lt;p&gt;Lead successfully added! &lt;/p&gt;</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>ErrorScreen</name>
+        <label>ErrorScreen</label>
+        <locationX>440</locationX>
+        <locationY>398</locationY>
+        <allowBack>false</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>false</allowPause>
+        <connector>
+            <isGoTo>true</isGoTo>
+            <targetReference>Create_Leads</targetReference>
+        </connector>
+        <fields>
+            <name>ErrorMessage</name>
+            <fieldText>&lt;p style=&quot;text-align: center;&quot;&gt;Please review this error and resolve any issues. If unable to resolve please contact your system Admin and provide them with this detail.&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;text-align: center;&quot;&gt;{!$Flow.FaultMessage}&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>

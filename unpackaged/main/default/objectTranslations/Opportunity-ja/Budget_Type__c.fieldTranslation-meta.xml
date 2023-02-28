@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <label><!-- Budget Type --></label>
+        <name>Budget_Type__c</name>
+        <picklistValues>
+            <masterLabel>Maintenance Expenditure</masterLabel>
+            <translation><!-- Maintenance Expenditure --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Operating Budget</masterLabel>
+            <translation><!-- Operating Budget --></translation>
+        </picklistValues>
+    </CustomFieldTranslation>

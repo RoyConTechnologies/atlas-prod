@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>MSA_Non_Standard_Terms__c</fullName>
+    <fullName>Budget_Type__c</fullName>
     <externalId>false</externalId>
-    <label>MSA/Non-Standard Terms</label>
+    <label>Budget Type</label>
     <required>true</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>MultiselectPicklist</type>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
     <valueSet>
         <restricted>true</restricted>
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Yes</fullName>
+                <fullName>Operating Budget</fullName>
                 <default>false</default>
-                <label>Yes</label>
+                <label>Operating Budget</label>
             </value>
             <value>
-                <fullName>No</fullName>
+                <fullName>Maintenance Expenditure</fullName>
                 <default>false</default>
-                <label>No</label>
+                <label>Maintenance Expenditure</label>
             </value>
         </valueSetDefinition>
     </valueSet>
-    <visibleLines>4</visibleLines>
 </CustomField>
