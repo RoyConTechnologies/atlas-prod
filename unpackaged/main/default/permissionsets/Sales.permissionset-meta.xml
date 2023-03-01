@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?><PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <fieldPermissions>
+        <editable>false</editable>
+        <field>Account.NPS_Average__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>true</editable>
         <field>Contact.NPS_Score__c</field>
         <readable>true</readable>

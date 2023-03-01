@@ -37,6 +37,10 @@
                 <behavior>Required</behavior>
                 <field>Credit_Limit__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>NPS_Average__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
