@@ -122,6 +122,16 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
+                <fieldItem>Record.HasOptedOutOfEmail</fieldItem>
+                <identifier>RecordHasOptedOutOfEmailField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
                 <fieldItem>Record.Phone</fieldItem>
                 <identifier>RecordPhoneField</identifier>
             </fieldInstance>
@@ -144,6 +154,46 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.Rating</fieldItem>
                 <identifier>RecordRatingField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.PEC_Report__c</fieldItem>
+                <identifier>RecordPEC_Report_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Salesman_Estimate__c</fieldItem>
+                <identifier>RecordSalesman_Estimate_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Projected_Close_Date__c</fieldItem>
+                <identifier>RecordProjected_Close_Date_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Budget_Type__c</fieldItem>
+                <identifier>RecordBudget_Type_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-65c48c0c-6143-438a-8696-eeae66cb3d0a</name>
@@ -196,8 +246,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.NumberOfEmployees</fieldItem>
-                <identifier>RecordNumberOfEmployeesField</identifier>
+                <fieldItem>Record.LeadSource</fieldItem>
+                <identifier>RecordLeadSourceField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -206,8 +256,58 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.LeadSource</fieldItem>
-                <identifier>RecordLeadSourceField</identifier>
+                <fieldItem>Record.Description</fieldItem>
+                <identifier>RecordDescriptionField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.DoNotCall</fieldItem>
+                <identifier>RecordDoNotCallField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.IIR_Link__c</fieldItem>
+                <identifier>RecordIIR_Link_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Project_TIV__c</fieldItem>
+                <identifier>RecordProject_TIV_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Projected_Start_Date__c</fieldItem>
+                <identifier>RecordProjected_Start_Date_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Projected_End_Date__c</fieldItem>
+                <identifier>RecordProjected_End_Date_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-09f46762-04fa-4935-8aeb-a68e41badeaa</name>

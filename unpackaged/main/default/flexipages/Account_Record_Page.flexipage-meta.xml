@@ -114,6 +114,16 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
+                <fieldItem>Record.AccountNumber</fieldItem>
+                <identifier>RecordAccountNumberField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
                 <fieldItem>Record.Type</fieldItem>
                 <identifier>RecordTypeField</identifier>
             </fieldInstance>
@@ -138,6 +148,36 @@
                 <identifier>RecordDescriptionField</identifier>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Credit_Limit__c</fieldItem>
+                <identifier>RecordCredit_Limit_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Credit_Review_Date__c</fieldItem>
+                <identifier>RecordCredit_Review_Date_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Rating</fieldItem>
+                <identifier>RecordRatingField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-57094cb8-a23d-47b7-af3f-2b34ed6d2346</name>
         <type>Facet</type>
     </flexiPageRegions>
@@ -150,6 +190,16 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.OwnerId</fieldItem>
                 <identifier>RecordOwnerIdField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.AccountSource</fieldItem>
+                <identifier>RecordAccountSourceField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -190,6 +240,36 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.NumberOfEmployees</fieldItem>
                 <identifier>RecordNumberOfEmployeesField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.NPS_Average__c</fieldItem>
+                <identifier>RecordNPS_Average_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.MSA_Non_Standard_Terms__c</fieldItem>
+                <identifier>RecordMSA_Non_Standard_Terms_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.NumberOfEmployees</fieldItem>
+                <identifier>RecordNumberOfEmployeesField2</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-40b0437e-79a4-4935-8980-31055b17ca72</name>

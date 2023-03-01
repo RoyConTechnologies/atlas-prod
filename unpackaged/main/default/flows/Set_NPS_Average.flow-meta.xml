@@ -1,9 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Flow xmlns="http://soap.sforce.com/2006/04/metadata">
     <apiVersion>57.0</apiVersion>
+    <assignments>
+        <name>Get_Count_of_Contact_Collection</name>
+        <label>Get Count of Contact Collection</label>
+        <locationX>176</locationX>
+        <locationY>455</locationY>
+        <assignmentItems>
+            <assignToReference>Count</assignToReference>
+            <operator>AssignCount</operator>
+            <value>
+                <elementReference>Get_Contacts_Related_to_Account</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>For_Each_Contact</targetReference>
+        </connector>
+    </assignments>
+    <assignments>
+        <name>Sum_of_NPS</name>
+        <label>Sum of NPS</label>
+        <locationX>264</locationX>
+        <locationY>695</locationY>
+        <assignmentItems>
+            <assignToReference>SumOfNPS</assignToReference>
+            <operator>Add</operator>
+            <value>
+                <elementReference>For_Each_Contact.NPS_Score__c</elementReference>
+            </value>
+        </assignmentItems>
+        <connector>
+            <targetReference>For_Each_Contact</targetReference>
+        </connector>
+    </assignments>
     <environments>Default</environments>
+    <formulas>
+        <name>AvgOfNPS</name>
+        <dataType>Number</dataType>
+        <expression>{!SumOfNPS}/{!Count}</expression>
+        <scale>2</scale>
+    </formulas>
     <interviewLabel>Set NPS Average {!$Flow.CurrentDateTime}</interviewLabel>
     <label>Set NPS Average</label>
+    <loops>
+        <name>For_Each_Contact</name>
+        <label>For Each Contact</label>
+        <locationX>176</locationX>
+        <locationY>575</locationY>
+        <collectionReference>Get_Contacts_Related_to_Account</collectionReference>
+        <iterationOrder>Asc</iterationOrder>
+        <nextValueConnector>
+            <targetReference>Sum_of_NPS</targetReference>
+        </nextValueConnector>
+        <noMoreValuesConnector>
+            <targetReference>Update_NPS_Average</targetReference>
+        </noMoreValuesConnector>
+    </loops>
     <processMetadataValues>
         <name>BuilderType</name>
         <value>
@@ -29,6 +81,9 @@
         <locationX>176</locationX>
         <locationY>335</locationY>
         <assignNullValuesIfNoRecordsFound>false</assignNullValuesIfNoRecordsFound>
+        <connector>
+            <targetReference>Get_Count_of_Contact_Collection</targetReference>
+        </connector>
         <filterLogic>and</filterLogic>
         <filters>
             <field>AccountId</field>
@@ -41,6 +96,19 @@
         <object>Contact</object>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </recordLookups>
+    <recordUpdates>
+        <name>Update_NPS_Average</name>
+        <label>Update NPS Average</label>
+        <locationX>176</locationX>
+        <locationY>911</locationY>
+        <inputAssignments>
+            <field>NPS_Average__c</field>
+            <value>
+                <elementReference>AvgOfNPS</elementReference>
+            </value>
+        </inputAssignments>
+        <inputReference>$Record.Account</inputReference>
+    </recordUpdates>
     <start>
         <locationX>50</locationX>
         <locationY>0</locationY>
@@ -59,5 +127,27 @@
         <recordTriggerType>Update</recordTriggerType>
         <triggerType>RecordAfterSave</triggerType>
     </start>
-    <status>Draft</status>
+    <status>Active</status>
+    <variables>
+        <name>Count</name>
+        <dataType>Number</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <scale>2</scale>
+        <value>
+            <numberValue>0.0</numberValue>
+        </value>
+    </variables>
+    <variables>
+        <name>SumOfNPS</name>
+        <dataType>Number</dataType>
+        <isCollection>false</isCollection>
+        <isInput>true</isInput>
+        <isOutput>true</isOutput>
+        <scale>2</scale>
+        <value>
+            <numberValue>0.0</numberValue>
+        </value>
+    </variables>
 </Flow>

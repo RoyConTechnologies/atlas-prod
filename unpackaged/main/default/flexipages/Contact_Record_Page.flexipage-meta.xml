@@ -137,8 +137,38 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
+                <fieldItem>Record.HomePhone</fieldItem>
+                <identifier>RecordHomePhoneField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.MobilePhone</fieldItem>
+                <identifier>RecordMobilePhoneField2</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
                 <fieldItem>Record.Phone</fieldItem>
                 <identifier>RecordPhoneField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.OtherPhone</fieldItem>
+                <identifier>RecordOtherPhoneField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -151,10 +181,30 @@
                 <identifier>RecordMobilePhoneField</identifier>
             </fieldInstance>
         </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.NPS_Score__c</fieldItem>
+                <identifier>RecordNPS_Score_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-bd35e9b4-cbef-4613-9538-9329b8ada7d7</name>
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.LeadSource</fieldItem>
+                <identifier>RecordLeadSourceField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <itemInstances>
             <fieldInstance>
                 <fieldInstanceProperties>
@@ -179,16 +229,6 @@
             <fieldInstance>
                 <fieldInstanceProperties>
                     <name>uiBehavior</name>
-                    <value>none</value>
-                </fieldInstanceProperties>
-                <fieldItem>Record.Department</fieldItem>
-                <identifier>RecordDepartmentField</identifier>
-            </fieldInstance>
-        </itemInstances>
-        <itemInstances>
-            <fieldInstance>
-                <fieldInstanceProperties>
-                    <name>uiBehavior</name>
                     <value>readonly</value>
                 </fieldInstanceProperties>
                 <fieldItem>Record.LastCUUpdateDate</fieldItem>
@@ -201,8 +241,28 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.Fax</fieldItem>
-                <identifier>RecordFaxField</identifier>
+                <fieldItem>Record.Birthdate</fieldItem>
+                <identifier>RecordBirthdateField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Description</fieldItem>
+                <identifier>RecordDescriptionField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.DoNotCall</fieldItem>
+                <identifier>RecordDoNotCallField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-e51d29aa-0b85-48d9-857e-e7ffd51c23b6</name>
@@ -247,6 +307,16 @@
         <type>Facet</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.OtherAddress</fieldItem>
+                <identifier>RecordOtherAddressField</identifier>
+            </fieldInstance>
+        </itemInstances>
         <name>Facet-992373ff-830c-4074-bbc1-7adeca91e945</name>
         <type>Facet</type>
     </flexiPageRegions>
