@@ -228,8 +228,28 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
+                <fieldItem>Record.Geolocation__c</fieldItem>
+                <identifier>RecordGeolocation_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
                 <fieldItem>Record.Jobsite__c</fieldItem>
                 <identifier>RecordJobsite_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Equipment_Required__c</fieldItem>
+                <identifier>RecordEquipment_Required_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-5c9f8c24-ac1d-4260-a396-74b6a8739c67</name>
@@ -334,6 +354,36 @@
                 </fieldInstanceProperties>
                 <fieldItem>Record.Budget_Type__c</fieldItem>
                 <identifier>RecordBudget_Type_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.FAA_Required__c</fieldItem>
+                <identifier>RecordFAA_Required_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Preliminary_Notice_Filed__c</fieldItem>
+                <identifier>RecordPreliminary_Notice_Filed_cField</identifier>
+            </fieldInstance>
+        </itemInstances>
+        <itemInstances>
+            <fieldInstance>
+                <fieldInstanceProperties>
+                    <name>uiBehavior</name>
+                    <value>none</value>
+                </fieldInstanceProperties>
+                <fieldItem>Record.Special_Instructions_Internal__c</fieldItem>
+                <identifier>RecordSpecial_Instructions_Internal_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-2a0e4a31-92cb-43dc-a783-7f9fb6448034</name>
