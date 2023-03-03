@@ -46,4 +46,20 @@
     
     
     
+    <validationRules>
+        <errorMessage><!-- To be marked as an Approved Customer the Credit Review Date, Credit Limit, MSA/Non-Standard Terms fields are required. --></errorMessage>
+        <name>Approved_Customer_Validation</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- To be marked as an Approved Customer the Credit Limit is required. --></errorMessage>
+        <name>Credit_Limit</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- To be marked as an Approved Customer the Credit Review Date is required. --></errorMessage>
+        <name>Credit_Review_Date</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- To be marked as an Approved Customer the MSA/Non-Standard Terms field is required. --></errorMessage>
+        <name>MSA_Non_Standard_Terms</name>
+    </validationRules>
 </CustomObjectTranslation>

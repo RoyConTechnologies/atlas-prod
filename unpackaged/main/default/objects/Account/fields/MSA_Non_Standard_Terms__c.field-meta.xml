@@ -3,9 +3,9 @@
     <fullName>MSA_Non_Standard_Terms__c</fullName>
     <externalId>false</externalId>
     <label>MSA/Non-Standard Terms</label>
-    <required>true</required>
+    <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
-    <type>MultiselectPicklist</type>
+    <type>Picklist</type>
     <valueSet>
         <restricted>true</restricted>
         <valueSetDefinition>
@@ -22,5 +22,4 @@
             </value>
         </valueSetDefinition>
     </valueSet>
-    <visibleLines>4</visibleLines>
 </CustomField>

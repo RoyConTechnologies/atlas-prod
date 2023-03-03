@@ -30,11 +30,11 @@
                 <field>Description</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>Credit_Review_Date__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>Credit_Limit__c</field>
             </layoutItems>
             <layoutItems>
@@ -84,7 +84,7 @@
                 </reportChartComponent>
             </layoutItems>
             <layoutItems>
-                <behavior>Required</behavior>
+                <behavior>Edit</behavior>
                 <field>MSA_Non_Standard_Terms__c</field>
             </layoutItems>
         </layoutColumns>
@@ -280,6 +280,10 @@
         <fields>CORE.USERS.FULL_NAME</fields>
         <fields>TASK.WHAT_NAME</fields>
         <relatedList>RelatedHistoryList</relatedList>
+    </relatedLists>
+    <relatedLists>
+        <fields>NAME</fields>
+        <relatedList>Related_Jobsite__c.Account__c</relatedList>
     </relatedLists>
     <relatedObjects>ParentId</relatedObjects>
     <showEmailCheckbox>false</showEmailCheckbox>

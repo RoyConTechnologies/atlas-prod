@@ -51,4 +51,34 @@
         <default>false</default>
         <label>Website</label>
     </standardValue>
+    <standardValue>
+        <fullName>Organic</fullName>
+        <default>false</default>
+        <label>Organic</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Publication</fullName>
+        <default>false</default>
+        <label>Publication</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Referral</fullName>
+        <default>false</default>
+        <label>Referral</label>
+    </standardValue>
+    <standardValue>
+        <fullName>IIR</fullName>
+        <default>false</default>
+        <label>IIR</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Existing Customer</fullName>
+        <default>false</default>
+        <label>Existing Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Rumor</fullName>
+        <default>false</default>
+        <label>Rumor</label>
+    </standardValue>
 </StandardValueSet>

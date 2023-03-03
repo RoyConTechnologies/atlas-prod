@@ -3,7 +3,7 @@
     <fullName>Credit_Review_Date__c</fullName>
     <externalId>false</externalId>
     <label>Credit Review Date</label>
-    <required>true</required>
+    <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Date</type>
 </CustomField>

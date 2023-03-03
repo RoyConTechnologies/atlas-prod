@@ -161,4 +161,59 @@
         <default>false</default>
         <label>Utilities</label>
     </standardValue>
+    <standardValue>
+        <fullName>Wind</fullName>
+        <default>false</default>
+        <label>Wind</label>
+    </standardValue>
+    <standardValue>
+        <fullName>HVAC</fullName>
+        <default>false</default>
+        <label>HVAC</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Steel Erection</fullName>
+        <default>false</default>
+        <label>Steel Erection</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Conv. Power Production</fullName>
+        <default>false</default>
+        <label>Conv. Power Production</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Agricultural</fullName>
+        <default>false</default>
+        <label>Agricultural</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Food Processing</fullName>
+        <default>false</default>
+        <label>Food Processing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Utility</fullName>
+        <default>false</default>
+        <label>Utility</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Infrastructure</fullName>
+        <default>false</default>
+        <label>Infrastructure</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Refinery/Chemical</fullName>
+        <default>false</default>
+        <label>Refinery/Chemical</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Mining</fullName>
+        <default>false</default>
+        <label>Mining</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Civil Construction</fullName>
+        <default>false</default>
+        <label>Civil Construction</label>
+    </standardValue>
 </StandardValueSet>
