@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Must_Have_Industry</fullName>
+    <active>true</active>
+    <errorConditionFormula>IF( NOT( ISPICKVAL( StageName , "Open") ) &amp;&amp;   ISPICKVAL( Industry__c , "")   ,true, false)</errorConditionFormula>
+    <errorDisplayField>Industry__c</errorDisplayField>
+    <errorMessage>An Opportunity must be assigned an Industry to move past the "Open" Stage</errorMessage>
+</ValidationRule>
