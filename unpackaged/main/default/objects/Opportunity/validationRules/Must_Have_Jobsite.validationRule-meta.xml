@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Must_Have_Jobsite</fullName>
+    <active>true</active>
+    <errorConditionFormula>IF( NOT( ISPICKVAL( StageName , "Open") ) &amp;&amp;  ISNULL( Jobsite__c )  ,true, false)</errorConditionFormula>
+    <errorDisplayField>Jobsite__c</errorDisplayField>
+    <errorMessage>An Opportunity must be assigned a Jobsite to move past the "Open" Stage</errorMessage>
+</ValidationRule>

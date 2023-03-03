@@ -72,4 +72,16 @@
     
     
     
+    <validationRules>
+        <errorMessage><!-- An Opportunity must be assigned an Industry to move past the &quot;Open&quot; Stage --></errorMessage>
+        <name>Must_Have_Industry</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- An Opportunity must be assigned a Jobsite to move past the &quot;Open&quot; Stage --></errorMessage>
+        <name>Must_Have_Jobsite</name>
+    </validationRules>
+    <validationRules>
+        <errorMessage><!-- Opportunities marked as Closed Lost must have a Loss Reason --></errorMessage>
+        <name>Must_Have_Loss_Reason</name>
+    </validationRules>
 </CustomObjectTranslation>
