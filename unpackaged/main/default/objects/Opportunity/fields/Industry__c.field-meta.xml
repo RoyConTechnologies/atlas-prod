@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Industry__c</fullName>
+    <externalId>false</externalId>
+    <label>Industry</label>
+    <required>true</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Agricultural</fullName>
+                <default>false</default>
+                <label>Agricultural</label>
+            </value>
+            <value>
+                <fullName>Civil Construction</fullName>
+                <default>false</default>
+                <label>Civil Construction</label>
+            </value>
+            <value>
+                <fullName>Conv. Power Production</fullName>
+                <default>false</default>
+                <label>Conv. Power Production</label>
+            </value>
+            <value>
+                <fullName>Food Processing</fullName>
+                <default>false</default>
+                <label>Food Processing</label>
+            </value>
+            <value>
+                <fullName>HVAC</fullName>
+                <default>false</default>
+                <label>HVAC</label>
+            </value>
+            <value>
+                <fullName>Infrastructure</fullName>
+                <default>false</default>
+                <label>Infrastructure</label>
+            </value>
+            <value>
+                <fullName>Mining</fullName>
+                <default>false</default>
+                <label>Mining</label>
+            </value>
+            <value>
+                <fullName>Refinery/Chemical</fullName>
+                <default>false</default>
+                <label>Refinery/Chemical</label>
+            </value>
+            <value>
+                <fullName>Steel Erection</fullName>
+                <default>false</default>
+                <label>Steel Erection</label>
+            </value>
+            <value>
+                <fullName>Utility</fullName>
+                <default>false</default>
+                <label>Utility</label>
+            </value>
+            <value>
+                <fullName>Wind</fullName>
+                <default>false</default>
+                <label>Wind</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

@@ -230,16 +230,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -277,9 +333,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -434,16 +504,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -481,9 +607,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -642,16 +782,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -690,9 +886,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -847,16 +1057,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -894,9 +1160,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1055,16 +1335,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1103,9 +1439,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1260,16 +1610,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1307,9 +1713,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1468,16 +1888,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1516,9 +1992,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1673,16 +2163,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1720,9 +2266,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -1881,16 +2441,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -1929,9 +2545,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2086,16 +2716,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2133,9 +2819,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2294,16 +2994,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2342,9 +3098,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <forecastingTypeSettings>
@@ -2499,16 +3269,72 @@
             <label>Budget Confirmed</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQg</field>
+            <label>Budget Type</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQh</field>
+            <label>Created Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfG</field>
             <label>Discovery Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQi</field>
+            <label>Equipment Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQj</field>
+            <label>FAA Required</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbR</field>
+            <label>Geolocation (Latitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>0BCDK0000008nbS</field>
+            <label>Geolocation (Longitude)</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQl</field>
+            <label>Industry</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQu</field>
+            <label>Job Duration</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQm</field>
+            <label>Job End Date</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQo</field>
+            <label>Jobsite</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQn</field>
+            <label>Job Start Date</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfI</field>
             <label>Loss Reason</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQp</field>
+            <label>Preliminary Notice Filed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
             <field>00NDn00000UcDfH</field>
             <label>ROI Analysis Completed</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQr</field>
+            <label>Special Instructions</label>
+        </opportunityListFieldsLabelMappings>
+        <opportunityListFieldsLabelMappings>
+            <field>00NDK00000DbrQq</field>
+            <label>Special Instructions (Internal)</label>
         </opportunityListFieldsLabelMappings>
         <opportunityListFieldsSelectedSettings>
             <field>OPPORTUNITY.NAME</field>
@@ -2546,9 +3372,23 @@
             <field>OPPORTUNITY.CREATED_DATE</field>
             <field>OPPORTUNITY.LAST_UPDATE</field>
             <field>00NDn00000UcDfF</field>
+            <field>00NDK00000DbrQg</field>
+            <field>00NDK00000DbrQh</field>
             <field>00NDn00000UcDfG</field>
+            <field>00NDK00000DbrQi</field>
+            <field>00NDK00000DbrQj</field>
+            <field>0BCDK0000008nbR</field>
+            <field>0BCDK0000008nbS</field>
+            <field>00NDK00000DbrQl</field>
+            <field>00NDK00000DbrQu</field>
+            <field>00NDK00000DbrQm</field>
+            <field>00NDK00000DbrQo</field>
+            <field>00NDK00000DbrQn</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDK00000DbrQp</field>
             <field>00NDn00000UcDfH</field>
+            <field>00NDK00000DbrQr</field>
+            <field>00NDK00000DbrQq</field>
         </opportunityListFieldsUnselectedSettings>
     </forecastingTypeSettings>
     <globalAdjustmentsSettings>

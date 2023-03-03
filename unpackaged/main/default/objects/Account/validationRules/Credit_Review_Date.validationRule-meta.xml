@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Credit_Review_Date</fullName>
+    <active>true</active>
+    <errorConditionFormula>IF(  ISPICKVAL(Type, "Approved Customer") &amp;&amp;  ISNULL( Credit_Review_Date__c ), true, false)</errorConditionFormula>
+    <errorDisplayField>Credit_Review_Date__c</errorDisplayField>
+    <errorMessage>To be marked as an Approved Customer the Credit Review Date is required.</errorMessage>
+</ValidationRule>

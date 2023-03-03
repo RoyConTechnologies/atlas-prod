@@ -2,18 +2,23 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>Hot</fullName>
+        <fullName>A - 30 Days</fullName>
         <default>false</default>
-        <label>Hot</label>
+        <label>A - 30 Days</label>
     </standardValue>
     <standardValue>
-        <fullName>Warm</fullName>
+        <fullName>B - 60 Days</fullName>
         <default>false</default>
-        <label>Warm</label>
+        <label>B - 60 Days</label>
     </standardValue>
     <standardValue>
-        <fullName>Cold</fullName>
+        <fullName>C - 90 Days</fullName>
         <default>false</default>
-        <label>Cold</label>
+        <label>C - 90 Days</label>
+    </standardValue>
+    <standardValue>
+        <fullName>D - 180 Days</fullName>
+        <default>false</default>
+        <label>D - 180 Days</label>
     </standardValue>
 </StandardValueSet>
