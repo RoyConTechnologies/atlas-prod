@@ -13,7 +13,7 @@
     </standardValue>
     <standardValue>
         <fullName>Potential Customer</fullName>
-        <default>false</default>
+        <default>true</default>
         <label>Potential Customer</label>
     </standardValue>
     <standardValue>
