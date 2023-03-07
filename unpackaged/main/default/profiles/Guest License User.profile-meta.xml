@@ -3313,6 +3313,9 @@
         <recordType>Knowledge__kav.Procedure</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Labor_Cost__c-Cost Rate Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Lead-Lead Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
