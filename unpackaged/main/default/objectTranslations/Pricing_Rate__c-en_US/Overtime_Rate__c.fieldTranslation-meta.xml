@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+        <help><!-- The overtime rate of this product if applicable. --></help>
+        <label><!-- Overtime Rate --></label>
+        <name>Overtime_Rate__c</name>
+    </CustomFieldTranslation>
