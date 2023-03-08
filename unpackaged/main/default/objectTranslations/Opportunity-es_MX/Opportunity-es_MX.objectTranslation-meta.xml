@@ -40,38 +40,6 @@
         <label><!-- SubmitForApproval --></label>
         <name>sbaa__SubmitForApproval</name>
     </webLinks>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <validationRules>
         <errorMessage><!-- An Opportunity must be assigned an Industry to move past the &quot;Open&quot; Stage --></errorMessage>
         <name>Must_Have_Industry</name>
@@ -84,4 +52,41 @@
         <errorMessage><!-- Opportunities marked as Closed Lost must have a Loss Reason --></errorMessage>
         <name>Must_Have_Loss_Reason</name>
     </validationRules>
+    <validationRules>
+        <errorMessage><!-- Opportunities marked as Closed Won must have a Won Reason --></errorMessage>
+        <name>Must_Have_Won_Reason</name>
+    </validationRules>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </CustomObjectTranslation>

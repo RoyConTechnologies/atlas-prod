@@ -3,6 +3,14 @@
         <label><!-- Loss Reason --></label>
         <name>Loss_Reason__c</name>
         <picklistValues>
+            <masterLabel>Availability</masterLabel>
+            <translation><!-- Availability --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Customer Did Not Win</masterLabel>
+            <translation><!-- Customer Did Not Win --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>Lost to Competitor</masterLabel>
             <translation><!-- Lost to Competitor --></translation>
         </picklistValues>
@@ -21,5 +29,13 @@
         <picklistValues>
             <masterLabel>Price</masterLabel>
             <translation><!-- Price --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Pricing</masterLabel>
+            <translation><!-- Pricing --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Project Pushed/Cancelled</masterLabel>
+            <translation><!-- Project Pushed/Cancelled --></translation>
         </picklistValues>
     </CustomFieldTranslation>
