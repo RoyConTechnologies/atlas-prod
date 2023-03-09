@@ -20,4 +20,13 @@
         <wednesdayEndTime>00:00:00.000Z</wednesdayEndTime>
         <wednesdayStartTime>00:00:00.000Z</wednesdayStartTime>
     </businessHours>
+    <holidays>
+        <isRecurring>true</isRecurring>
+        <name>Labor Day</name>
+        <recurrenceDayOfWeek>Monday</recurrenceDayOfWeek>
+        <recurrenceInstance>First</recurrenceInstance>
+        <recurrenceMonthOfYear>September</recurrenceMonthOfYear>
+        <recurrenceStartDate>2023-09-04</recurrenceStartDate>
+        <recurrenceType>RecursYearlyNth</recurrenceType>
+    </holidays>
 </BusinessHoursSettings>
