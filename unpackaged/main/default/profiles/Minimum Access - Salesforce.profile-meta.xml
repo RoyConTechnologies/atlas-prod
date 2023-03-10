@@ -1214,6 +1214,9 @@
         <layout>DataUsePurpose-Data Use Purpose Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Disabled_For__mdt-Disabled For Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Entitlement-Entitlement Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1224,6 +1227,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Labor_Cost__c-Cost Rate Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Metadata_Driven_Trigger__mdt-Metadata Driven Trigger Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Opportunity-Opportunity Layout</layout>
