@@ -3403,6 +3403,9 @@
         <layout>Related_Jobsite__c-Account Jobsite Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Required_Skill__c-Required Skill Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Scorecard-Scorecard Layout</layout>
     </layoutAssignments>
     <layoutAssignments>

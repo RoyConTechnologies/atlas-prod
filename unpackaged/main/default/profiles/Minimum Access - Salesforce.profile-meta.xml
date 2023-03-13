@@ -932,6 +932,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Required_Skill__c.Product__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Required_Skill__c.Skill__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Seller.ActiveFromDate</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1258,6 +1268,9 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Related_Jobsite__c-Account Jobsite Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Required_Skill__c-Required Skill Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Seller-Seller Layout</layout>
