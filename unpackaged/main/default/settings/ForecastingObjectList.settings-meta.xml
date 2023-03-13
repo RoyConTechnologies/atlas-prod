@@ -146,6 +146,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -320,6 +324,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -483,6 +488,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -657,6 +666,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -824,6 +834,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -999,6 +1013,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -1160,6 +1175,10 @@
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
             <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
@@ -1336,6 +1355,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -1503,6 +1523,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -1678,6 +1702,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -1839,6 +1864,10 @@
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
             <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
@@ -2015,6 +2044,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -2182,6 +2212,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -2357,6 +2391,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -2518,6 +2553,10 @@
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
             <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
@@ -2694,6 +2733,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -2861,6 +2901,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -3036,6 +3080,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -3197,6 +3242,10 @@
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
             <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
@@ -3373,6 +3422,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -3540,6 +3590,10 @@
             <label>Synced Quote</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
             <label>Account Site</label>
         </forecastingObjectListLabelMappings>
@@ -3715,6 +3769,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>
@@ -3876,6 +3931,10 @@
         <forecastingObjectListLabelMappings>
             <field>SYNCEDQUOTE.NAME</field>
             <label>Synced Quote</label>
+        </forecastingObjectListLabelMappings>
+        <forecastingObjectListLabelMappings>
+            <field>00NDP00000FPA5t</field>
+            <label>Months Without Activity</label>
         </forecastingObjectListLabelMappings>
         <forecastingObjectListLabelMappings>
             <field>ACCOUNT.SITE</field>
@@ -4052,6 +4111,7 @@
             <field>00NDP00000FOIlQ</field>
             <field>00NDP00000CY2WI</field>
             <field>00NDn00000UcDfI</field>
+            <field>00NDP00000FPA5t</field>
             <field>00NDP00000CXOHQ</field>
             <field>00NDP00000CXOHP</field>
             <field>00NDP00000CY2Wc</field>

@@ -31,21 +31,6 @@
         <label><!-- Renew_Assets --></label>
         <name>SBQQ__Renew_Assets</name>
     </webLinks>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <validationRules>
         <errorMessage><!-- To be marked as an Approved Customer the Credit Review Date, Credit Limit, MSA/Non-Standard Terms fields are required. --></errorMessage>
         <name>Approved_Customer_Validation</name>
@@ -62,4 +47,20 @@
         <errorMessage><!-- To be marked as an Approved Customer the MSA/Non-Standard Terms field is required. --></errorMessage>
         <name>MSA_Non_Standard_Terms</name>
     </validationRules>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 </CustomObjectTranslation>

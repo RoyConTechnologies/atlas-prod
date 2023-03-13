@@ -112,6 +112,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Account.Months_Without_Activity__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Account.Type</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -818,6 +823,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.Jobsite__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Opportunity.Months_Without_Activity__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

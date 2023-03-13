@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Months_Without_Activity__c</fullName>
+    <externalId>false</externalId>
+    <formula>ROUND((YEAR(LastActivityDate) - YEAR(TODAY())) * 12 + MONTH(LastActivityDate) - MONTH(TODAY()) + IF(DAY(LastActivityDate) &gt;= DAY(TODAY()), 1, 0), 0)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Months Without Activity</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>
