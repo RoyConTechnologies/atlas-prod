@@ -2,14 +2,9 @@
 <StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <sorted>false</sorted>
     <standardValue>
-        <fullName>None</fullName>
+        <fullName>Cranes</fullName>
         <default>false</default>
-        <label>None</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Package</fullName>
-        <default>false</default>
-        <label>Package</label>
+        <label>Cranes</label>
     </standardValue>
     <standardValue>
         <fullName>Equipment</fullName>
@@ -22,18 +17,23 @@
         <label>Labor</label>
     </standardValue>
     <standardValue>
-        <fullName>Permits</fullName>
+        <fullName>Mobilization</fullName>
         <default>false</default>
-        <label>Permits</label>
+        <label>Mobilization</label>
     </standardValue>
     <standardValue>
-        <fullName>Transportation</fullName>
+        <fullName>Package</fullName>
         <default>false</default>
-        <label>Transportation</label>
+        <label>Package</label>
     </standardValue>
     <standardValue>
-        <fullName>Cranes</fullName>
+        <fullName>Resources</fullName>
         <default>false</default>
-        <label>Cranes</label>
+        <label>Resources</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trucking</fullName>
+        <default>false</default>
+        <label>Trucking</label>
     </standardValue>
 </StandardValueSet>
